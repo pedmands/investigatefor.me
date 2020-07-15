@@ -1,6 +1,6 @@
-## Welcome to Bits3d Studio
+## Investigate For Me
 
-Bits3D Studio develops innovated imaging solutions for [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) reporting, allowing subscribers to its software to visualize weakpoints and potential attack vectors in their organization. Our state-of-the-art tech shows can make spatial sense of internal and external vulnerabilities among a company's most vital asset - its people.
+Innovated imaging solutions for [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) reporting, allowing subscribers to its software to visualize weakpoints and potential attack vectors in their organization. Our state-of-the-art tech shows can make spatial sense of internal and external vulnerabilities among a company's most vital asset - its people.
 
 ### Our tools use next-gen tech
 
