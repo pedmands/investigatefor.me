@@ -1,15 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Bits3d Studio
 
-You can use the [editor on GitHub](https://github.com/pedmands/pedmands.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bits3D Studio develops innovated imaging solutions for [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) reporting, allowing subscribers to its software to visualize weakpoints and potential attack vectors in their organization. Our state-of-the-art tech shows can make spatial sense of internal and external vulnerabilities among a company's most vital asset - its people.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our tools use next-gen tech
 
-### Markdown
+Sift through blockchains, find untagged selfies, and more through our web services.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Or use CLI tools:
 
 ```markdown
-Syntax highlighted code block
+C:\> bit3d.cv.api.py
+
+ >>> b3 add .
+Added 130 images to api staging area
+ >>> b3 construct new -m strict "user_profile_name"
+New Structure "user_profile_name" created (strict parameter matching)
+ >>> b3 search "user_profile_name" 1200 -v
+...
+```
+
+- The first command adds all image files in the working directory to a staging area where the user can create Classes for performing searches against an API
+- It t
+
 
 # Header 1
 ## Header 2
